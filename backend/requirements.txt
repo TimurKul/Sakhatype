@@ -1,0 +1,6 @@
+python-multipart==0.0.20
+fastapi==0.119.1
+pydantic==2.12.3
+pydantic-settings==2.11.0
+sqlalchemy==2.0.44
+python-jose==3.5.0
